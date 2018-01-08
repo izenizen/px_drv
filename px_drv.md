@@ -42,7 +42,7 @@ $ /etc/sysconfig/modules/pxq3pe_dtv.modules
 
 ## 3. Build recpt1
 
-Install [libarib25](https://github.com/stz2012/libarib25) before build recpt1.
+Install [arib25](http://hg.honeyplanet.jp/pt1/archive/c44e16dbb0e2.zip) before build recpt1.
 
 ```
 $ cd px_drv/recpt1
